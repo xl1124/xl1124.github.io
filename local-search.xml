@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>KSWEB搭建typecho博客</title>
+    <link href="/2023/09/16/KSWEB/"/>
+    <url>/2023/09/16/KSWEB/</url>
+    
+    <content type="html"><![CDATA[<h1 id="KSWEB与typecho是什么"><a href="#KSWEB与typecho是什么" class="headerlink" title="KSWEB与typecho是什么"></a>KSWEB与typecho是什么</h1><h2 id="KSWEB"><a href="#KSWEB" class="headerlink" title="KSWEB"></a>KSWEB</h2><p>KSWEB是一套针对Android平台的网络开发者。该套装包括：Web服务器、FTP服务器、PHP编程语言、MySQL DBMS和调度程序。KSWEB不需要Root权限就可以正常运行，当然，除非你想使用80端口的服务器。顺便说一下，在互联网上打开你的服务器时，可以很方便。这样就可以让你的口袋里有一个小主机了！</p><h2 id="typecho"><a href="#typecho" class="headerlink" title="typecho"></a>typecho</h2><p>Typecho是由type和echo两个词合成的，来自于开发团队的头脑风暴。Typecho基于PHP5开发，支持多种数据库，是一款内核强健﹑扩展方便﹑体验友好﹑运行流畅的轻量级开源博客程序。选用Typecho，搭建独一无二个人网络日志发布平台，享受创作的快乐。</p><h1 id="开始搭建"><a href="#开始搭建" class="headerlink" title="开始搭建"></a>开始搭建</h1><h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul><li><p>KSWEB  <a href="https://www.123pan.com/s/WV06Vv-J8CEd.html">https://www.123pan.com/s/WV06Vv-J8CEd.html</a></p></li><li><p>typecho  <a href="https://www.123pan.com/s/WV06Vv-I8CEd.html">https://www.123pan.com/s/WV06Vv-I8CEd.html</a></p></li><li><p>一台root的手机当然不root的也行最好还是root的</p></li></ul><h2 id="开始搭建-1"><a href="#开始搭建-1" class="headerlink" title="开始搭建"></a>开始搭建</h2><ol><li>下载打开ksweb后打开，上方导航栏划到工具为主机安装phpmyadmin</li></ol><div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-02554331_ru.kslabs.ksweb.jpg"></div><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-02562843_ru.kslabs.ksweb.jpg"></div></div><div class="group-image-row"><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-02564279_ru.kslabs.ksweb.png"></div><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03000722_ru.kslabs.ksweb.png"></div></div></div><ol start="2"><li>打开mt管理器或其他文件管理器，找到htdocs文件夹，这就是你放网站源码的地方，把上文中typecho的源码解压到此目录下</li></ol><div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03061938_bin.mt.plus.jpg"></div><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03080700_bin.mt.plus.png"></div><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03081847_bin.mt.plus.jpg"></div></div></div><ol start="3"><li>打开软件主界面点击数据库的地址跳转到浏览器，输入root不输入密码点鸡登录进去数据库</li></ol><div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03123840_ru.kslabs.ksweb.jpg"></div><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03145154_mark.via.jpg"></div></div></div><ol start="4"><li>修改数据库的密码，你自己想设置成啥就是啥，我方便以下演示设置的是123456</li></ol><div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03152471_mark.via.jpg"></div></div></div><ol start="5"><li>创建一个新的数据库，按图片顺序来操作</li></ol><div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03215190_mark.via.jpg"></div><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03220857_mark.via.jpg"></div></div><div class="group-image-row"><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03222107_mark.via.jpg"></div><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03225690_mark.via.jpg"></div></div></div><ol start="6"><li>打开第三步中网站的地址或者浏览器输入     127.0.0.1:8080 进入网站开始安装typecho，按我图片顺序来操作</li></ol><div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03295467_mark.via.jpg"></div><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03321556_mark.via.jpg"></div></div></div><ol start="7"><li>此时已经安装成功，点击以下两个跳转地址分别跳转到网站的后台管理和前台界面</li></ol><div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03371901_mark.via.jpg"></div><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/17/S30917-03374583_mark.via.jpg"></div></div></div><h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>到这里就已经安装结束了，是的typecho就是这么简洁，想要美化的可以去github下载一些主题导入进入，至于美化教程我就不赘述了随便一百度都有。当然除了typecho也可以安装wordpress，只要把源码解压放在htdocs目录下就好了</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>typecho</tag>
+      
+      <tag>KSWEB</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>利用 zerotermux 部署开源的音乐网站</title>
     <link href="/2023/09/15/%E9%9F%B3%E4%B9%90/"/>
     <url>/2023/09/15/%E9%9F%B3%E4%B9%90/</url>
