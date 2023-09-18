@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>面具模块之AdGuardHome</title>
+    <link href="/2023/09/18/adhome/"/>
+    <url>/2023/09/18/adhome/</url>
+    
+    <content type="html"><![CDATA[<h1 id="什么是AdGuardHome"><a href="#什么是AdGuardHome" class="headerlink" title="什么是AdGuardHome"></a>什么是AdGuardHome</h1><p>AdGuard Home是一款功能丰富的广告拦截程序，它可以防止网站上的广告、跟踪脚本和恶意软件等，同时提供全局DNS解析服务，保护用户的隐私和网络安全。与其他广告拦截 &#x2F; 反追踪插件不同的是，AdGuard Home可以运行在网络上的任何设备上，为所有连接到网络的设备提供保护。在本篇文章中，我们将介绍如何安装和使用AdGuard Home，以便用户更好地保护自己的网络安全。本篇中的是由酷安top大佬弄的面具模块版本</p><h1 id="它可以做什么"><a href="#它可以做什么" class="headerlink" title="它可以做什么"></a>它可以做什么</h1><p>用于过滤广告、防DNS劫持，本机流量数据或Wifi都支持，支持自定义过滤规则订阅源，兼容各类使用环境(看模式配置文件介绍)。<br>AdHome后台地址：127.0.0.1:3000，账号: root 密码: root</p><h1 id="如何使用"><a href="#如何使用" class="headerlink" title="如何使用"></a>如何使用</h1><ol><li>下载面具模块</li></ol><p><a href="https://www.123pan.com/s/WV06Vv-10CEd.html">https://www.123pan.com/s/WV06Vv-10CEd.html</a></p><ol start="2"><li><p>安装模块并重启</p></li><li><p>开机后浏览器访问后台并登录</p></li></ol><div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="https://cdnjson.com/images/2023/09/18/S30918-23331845_mark.via.png"></div></div></div><div class="note note-warning">            <p>具体过滤规则和使用教程请去百度或者csdn亦或者酷安等各大论坛。搜索关键字 AdGuardHome</p>          </div><h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><ol><li>添加过滤规则订阅：后台-过滤器-第一个选项。</li><li>添加自定义黑白名单规则：后台-过滤器-最后一个选项。</li><li>AdHome后台-常规设置里的浏览安全、家长控制、安全搜索不要勾选！！！会导致部分网址无法访问。</li><li>模块各项配置可以在模块里的mode.conf文件里更改</li></ol>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Magisk模块</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>KSWEB搭建typecho博客</title>
     <link href="/2023/09/16/KSWEB/"/>
     <url>/2023/09/16/KSWEB/</url>
